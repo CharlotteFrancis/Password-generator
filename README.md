@@ -31,5 +31,3 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
